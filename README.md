@@ -3,7 +3,7 @@
 This repository contains Playwright automated tests for the Tamil transliteration tool at https://tamil.changathi.com/.
 
 ## Files included
-- tests/example.spec.js  : Playwright test suite (replace selectors if necessary)
+- tests/example.spec.js  : Playwright test suite 
 - ITPM_Assignment1_IT23555280.xlsx : Completed Excel with Positive, Negative and UI test cases
 
 ## How to run
